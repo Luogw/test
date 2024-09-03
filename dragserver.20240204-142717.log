@@ -1,0 +1,23 @@
+[9072]	2024-02-04 14:27:17.117	- Info  -	[clipboard][client] current session id 1, ProcessID 5284
+
+[9072]	2024-02-04 14:27:17.122	- Info  -	[CSockConnector] attempt to connect server 127.0.0.1:50541(127.0.0.1:50541)
+[9072]	2024-02-04 14:27:17.123	- Info  -	[clipboard][DesktopAgentClient] connect DesktopServer ok.
+[13272]	2024-02-04 14:27:17.124	- Info  -	[clipboard][client::handler] connected sid(0), thread(13272)
+[13272]	2024-02-04 14:27:17.124	- Info  -	[clipboard] start clipboard...
+[13272]	2024-02-04 14:27:17.131	- Info  -	[clipboard][converter] html format 49437
+[13272]	2024-02-04 14:27:17.131	- Info  -	[clipboard][converter] rtf format 49292
+[13272]	2024-02-04 14:27:17.131	- Info  -	[clipboard] start clipboard ok.
+[13272]	2024-02-04 14:27:17.131	- Info  -	[clipboard] Query Version(2) request is send
+[13272]	2024-02-04 14:27:17.140	- Info  -	[clipboard] stop Clipboard ok
+[13272]	2024-02-04 14:27:17.531	- Info  -	[clipboard] start clipboard...
+[13272]	2024-02-04 14:27:17.637	- Info  -	[clipboard][converter] html format 49437
+[13272]	2024-02-04 14:27:17.638	- Info  -	[clipboard][converter] rtf format 49292
+[13272]	2024-02-04 14:27:17.638	- Info  -	[clipboard] start clipboard ok.
+[13272]	2024-02-04 14:27:17.638	- Info  -	[clipboard] Query Version(2) request is send
+[13272]	2024-02-04 14:27:19.938	- Info  -	[clipboard] OnReceiveQueryVersionReq 2, func: 1
+[13272]	2024-02-04 14:27:19.938	- Info  -	[clipboard] Query Version(2) response is send
+[1616]	2024-02-04 14:27:19.961	- Info  -	[clipboard] OnReceiveQueryVersionRes 2, func: 1
+[1616]	2024-02-04 14:27:19.976	- Info  -	[clipboard] OnReceiveQueryVersionRes 2, func: 1
+[13272]	2024-02-04 14:27:59.572	- Info  -	[clipboard][client::handler] disconnected
+[13272]	2024-02-04 14:27:59.583	- Info  -	[clipboard] stop Clipboard ok
+[13272]	2024-02-04 14:27:59.583	- Info  -	[clipboard][DesktopAgentClient] on_disconnect ok.
