@@ -1,0 +1,187 @@
+[10788]	2024-02-04 14:23:19.014	* Error *	[CSSLStream] Remove temp(C:\Users\LUOGW_~1\AppData\Local\Temp\ua2k.0) file ok
+[10788]	2024-02-04 14:23:19.307	- Info  -	[RemoteManager::Init] [RemoteManager] Not use proxy
+[10788]	2024-02-04 14:23:19.307	- Info  -	[CHostManager::set_server_address] [Hostmanager] set slapi address: slapi.oray.net:443
+[10788]	2024-02-04 14:23:19.447	- Info  -	[http::call3][1] new call:https://slapi.oray.net/client/free-tips
+[9968]	2024-02-04 14:23:19.447	- Info  -	[http::call3][1] create new connection : https://slapi.oray.net:443
+[9968]	2024-02-04 14:23:19.481	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(47.111.169.221:443)
+[10788]	2024-02-04 14:23:19.571	- Info  -	[main_dlg::create_tray] [MainDialog] create_tray enable:1,getlasterror:0
+[9968]	2024-02-04 14:23:19.618	- Info  -	[http::call3][1] url:https://slapi.oray.net/client/free-tips, status code:200
+[10788]	2024-02-04 14:23:22.674	- Info  -	[http::call3][2] new call:https://slapi.oray.net/client/push-message
+[9968]	2024-02-04 14:23:22.674	- Info  -	[http::call3] id:2 use old connection : https://slapi.oray.net:443
+[9968]	2024-02-04 14:23:22.701	- Info  -	[http::call3][2] url:https://slapi.oray.net/client/push-message, status code:200
+[13692]	2024-02-04 14:23:23.702	- Info  -	wating service start
+[13692]	2024-02-04 14:23:24.704	- Info  -	wating service start
+[13692]	2024-02-04 14:23:25.705	- Info  -	wating service start
+[13692]	2024-02-04 14:23:26.706	- Info  -	wating service start
+[13692]	2024-02-04 14:23:27.708	- Info  -	wating service start
+[13692]	2024-02-04 14:23:28.710	- Info  -	wating service start
+[13692]	2024-02-04 14:23:29.711	- Info  -	wating service start
+[13692]	2024-02-04 14:23:30.711	- Info  -	wating service start
+[13692]	2024-02-04 14:23:31.712	- Info  -	wating service start
+[13692]	2024-02-04 14:23:32.713	- Info  -	start service result 1
+[13692]	2024-02-04 14:23:32.713	- Info  -	[CSockConnector] attempt to connect server 127.0.0.1:16308(127.0.0.1:16308)
+[10788]	2024-02-04 14:23:32.714	- Info  -	[main_dlg::OnUserMessage] [service] service_enable with
+[11732]	2024-02-04 14:23:32.718	- Info  -	[CLocalNewShell::OnConnect] [shell] OnConnect
+[11732]	2024-02-04 14:23:32.761	- Info  -	[CLocalNewShell::OnReceive] [shell] status_changed:1
+[11732]	2024-02-04 14:23:32.879	- Info  -	[CLocalNewShell::OnReceive] [shell] status_changed:1
+[11732]	2024-02-04 14:23:33.003	- Info  -	[CLocalNewShell::OnReceive] [shell] status_changed:1
+[10788]	2024-02-04 14:23:33.745	- Info  -	[BaseTokenObject::setToken] [TOKEN] token account orkj0643556nytt6
+[5432]	2024-02-04 14:23:33.919	- Info  -	[SensorsDatas::init_sensors_thread] [sensors] init with file: C:/ProgramData/Oray/SunloginClient/sensors/datas
+[5432]	2024-02-04 14:23:33.919	- Info  -	[SensorsDatas::init_sensors_thread] [sensors] login with 78439133
+[5432]	2024-02-04 14:23:33.920	- Info  -	[http::call3][4] new call:https://sl-tk.oray.com/track
+[9968]	2024-02-04 14:23:33.920	- Info  -	[http::call3][4] create new connection : https://sl-tk.oray.com:443
+[4028]	2024-02-04 14:23:33.922	- Info  -	[http::call3][5] new call:https://api-std.sunlogin.oray.com/authorize/refreshing
+[9968]	2024-02-04 14:23:33.944	- Info  -	[CSockConnector] attempt to connect server sl-tk.oray.com:443(116.62.198.226:443)
+[9968]	2024-02-04 14:23:33.944	- Info  -	[http::call3][5] create new connection : https://api-std.sunlogin.oray.com:443
+[9968]	2024-02-04 14:23:33.973	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(47.98.43.47:443)
+[10788]	2024-02-04 14:23:34.020	- Info  -	[MAIN_DLG] NetWorkChanged is : 1
+[9968]	2024-02-04 14:23:34.062	- Info  -	[http::call3][4] url:https://sl-tk.oray.com/track, status code:200
+[5432]	2024-02-04 14:23:34.063	- Info  -	[http::call3][7] new call:https://sl-tk.oray.com/track
+[9968]	2024-02-04 14:23:34.063	- Info  -	[http::call3] id:7 use old connection : https://sl-tk.oray.com:443
+[9968]	2024-02-04 14:23:34.095	- Info  -	[http::call3][7] url:https://sl-tk.oray.com/track, status code:200
+[9968]	2024-02-04 14:23:34.129	- Info  -	[http::call3][5] url:https://api-std.sunlogin.oray.com/authorize/refreshing, status code:200
+[9968]	2024-02-04 14:23:34.130	- Info  -	[BaseTokenObject::setToken] [TOKEN] token account orkj0643556nytt6
+[4028]	2024-02-04 14:23:34.150	- Info  -	[http::call3][3] new call:https://slapi.oray.net/adver/frequence
+[4028]	2024-02-04 14:23:34.150	- Info  -	[http::call3][8] new call:https://slapi.oray.net/passport/me
+[9968]	2024-02-04 14:23:34.150	- Info  -	[http::call3] id:3 use old connection : https://slapi.oray.net:443
+[4028]	2024-02-04 14:23:34.150	- Info  -	[http::call3][6] new call:https://slapi.oray.net/adver/frequence
+[9968]	2024-02-04 14:23:34.150	- Info  -	[http::call3] id:8 use old connection : https://slapi.oray.net:443
+[9968]	2024-02-04 14:23:34.150	- Info  -	[http::call3] id:6 use old connection : https://slapi.oray.net:443
+[9968]	2024-02-04 14:23:34.176	- Info  -	[http::call3][3] url:https://slapi.oray.net/adver/frequence, status code:200
+[9968]	2024-02-04 14:23:34.271	- Info  -	[http::call3][8] url:https://slapi.oray.net/passport/me, status code:200
+[11084]	2024-02-04 14:23:34.287	- Info  -	[http::call3][9] new call:https://api-std.sunlogin.oray.com/terminals/bind
+[9968]	2024-02-04 14:23:34.288	- Info  -	[http::call3][10] new call:https://slapi.oray.net/service/used
+[9968]	2024-02-04 14:23:34.288	- Info  -	[http::call3][11] new call:https://api-std.sunlogin.oray.com/console/client/features
+[9968]	2024-02-04 14:23:34.306	- Info  -	[http::call3] id:9 use old connection : https://api-std.sunlogin.oray.com:443
+[9968]	2024-02-04 14:23:34.306	- Info  -	[http::call3] id:10 use old connection : https://slapi.oray.net:443
+[9968]	2024-02-04 14:23:34.306	- Info  -	[http::call3] id:11 use old connection : https://api-std.sunlogin.oray.com:443
+[9968]	2024-02-04 14:23:34.331	- Info  -	[http::call3][6] url:https://slapi.oray.net/adver/frequence, status code:200
+[9968]	2024-02-04 14:23:34.347	- Info  -	[http::call3][9] url:https://api-std.sunlogin.oray.com/terminals/bind, status code:200
+[9576]	2024-02-04 14:23:34.355	- Info  -	[CWebsocketClient::doconnect]
+[9968]	2024-02-04 14:23:34.395	- Info  -	[http::call3][11] url:https://api-std.sunlogin.oray.com/console/client/features, status code:200
+[9576]	2024-02-04 14:23:34.403	- Info  -	[CSockConnector] attempt to connect server ws-std01.sunlogin.oray.com:443(121.41.11.4:443)
+[9576]	2024-02-04 14:23:34.403	- Info  -	[CWebsocketClient::doconnect] connecting server ws-std01.sunlogin.oray.com:443 success.
+[9968]	2024-02-04 14:23:34.430	- Info  -	[http::call3][10] url:https://slapi.oray.net/service/used, status code:200
+[9968]	2024-02-04 14:23:34.430	- Info  -	[RemoteManager::OnFireHostManagerResult] [REMOTEMANAGER] login account result with true
+[10788]	2024-02-04 14:23:34.456	- Info  -	[http::call3][12] new call:https://sl-tk.oray.com/slcollection
+[9968]	2024-02-04 14:23:34.456	- Info  -	[http::call3] id:12 use old connection : https://sl-tk.oray.com:443
+[10788]	2024-02-04 14:23:34.458	- Info  -	[SensorsDatas::Login] [sensors] login with 78439133
+[10788]	2024-02-04 14:23:34.460	- Info  -	[http::call3][13] new call:https://api-std.sunlogin.oray.com/authorize/code
+[9968]	2024-02-04 14:23:34.460	- Info  -	[http::call3] id:13 use old connection : https://api-std.sunlogin.oray.com:443
+[10788]	2024-02-04 14:23:34.465	- Info  -	[main_dlg::OnUserMessage] [MainDialog] first login for account down
+[10788]	2024-02-04 14:23:34.465	- Info  -	[http::call3][14] new call:https://slapi.oray.net/adver/frequence
+[9968]	2024-02-04 14:23:34.466	- Info  -	[http::call3] id:14 use old connection : https://slapi.oray.net:443
+[9968]	2024-02-04 14:23:34.486	- Info  -	[http::call3][12] url:https://sl-tk.oray.com/slcollection, status code:200
+[9968]	2024-02-04 14:23:34.486	- Info  -	[main_dlg::upload_first_datas] [MainDialog] upload data success!
+[10788]	2024-02-04 14:23:34.486	- Info  -	register_interface::PostApiInterface post api type = 6
+[10788]	2024-02-04 14:23:34.486	- Info  -	[http::call3][15] new call:https://user-api-v2.oray.com/users/78439133
+[10788]	2024-02-04 14:23:34.487	- Info  -	register_interface::PostApiInterface post api type = 5
+[9968]	2024-02-04 14:23:34.487	- Info  -	[http::call3][15] create new connection : https://user-api-v2.oray.com:443
+[10788]	2024-02-04 14:23:34.487	- Info  -	[http::call3][16] new call:https://user-api-v2.oray.com/users/externals/wechat
+[10788]	2024-02-04 14:23:34.490	- Info  -	[http::call3][17] new call:https://slapi.oray.net/tryout/limit
+[10788]	2024-02-04 14:23:34.490	- Info  -	[http::call3][18] new call:https://api-std.sunlogin.oray.com/fastcode-records
+[13692]	2024-02-04 14:23:34.498	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443(223.144.131.233:443)
+[9576]	2024-02-04 14:23:34.530	- Info  -	[websocket:121.41.11.4:443] connected
+[11084]	2024-02-04 14:23:34.530	- Info  -	[long_connection::OnMessage] [LongConnect] WSS_CONNECTED
+[9968]	2024-02-04 14:23:34.534	- Info  -	[CSockConnector] attempt to connect server user-api-v2.oray.com:443(47.99.65.231:443)
+[9968]	2024-02-04 14:23:34.535	- Info  -	[http::call3] id:16 use old connection : https://user-api-v2.oray.com:443
+[9968]	2024-02-04 14:23:34.535	- Info  -	[http::call3] id:17 use old connection : https://slapi.oray.net:443
+[9968]	2024-02-04 14:23:34.535	- Info  -	[http::call3] id:18 use old connection : https://api-std.sunlogin.oray.com:443
+[9576]	2024-02-04 14:23:34.537	- Info  -	[CWebsocketClient::set_ping_interval] ping_interval:54027
+[9968]	2024-02-04 14:23:34.537	- Info  -	[http::call3][13] url:https://api-std.sunlogin.oray.com/authorize/code, status code:200
+[9968]	2024-02-04 14:23:34.537	- Info  -	[http::call3][19] new call:https://api-std.sunlogin.oray.com/buckets/qr
+[10788]	2024-02-04 14:23:34.539	- Info  -	[MAIN_DLG] [RED_YELLOW] LONG_CONNECTED
+[9968]	2024-02-04 14:23:34.539	- Info  -	[http::call3][14] url:https://slapi.oray.net/adver/frequence, status code:200
+[10788]	2024-02-04 14:23:34.539	- Info  -	[http::call3][20] new call:https://api-std.sunlogin.oray.com/channels
+[9968]	2024-02-04 14:23:34.546	- Info  -	[http::call3] id:19 use old connection : https://api-std.sunlogin.oray.com:443
+[9968]	2024-02-04 14:23:34.546	- Info  -	[http::call3] id:20 use old connection : https://api-std.sunlogin.oray.com:443
+[13692]	2024-02-04 14:23:34.550	+Warning+	[http download] ON CONNECTED
+[13692]	2024-02-04 14:23:34.566	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443(223.144.131.233:443)
+[9968]	2024-02-04 14:23:34.584	- Info  -	[http::call3][18] url:https://api-std.sunlogin.oray.com/fastcode-records, status code:200
+[9968]	2024-02-04 14:23:34.604	- Info  -	[http::call3][17] url:https://slapi.oray.net/tryout/limit, status code:200
+[13692]	2024-02-04 14:23:34.610	+Warning+	[http download] ON CONNECTED
+[9968]	2024-02-04 14:23:34.628	- Info  -	[http::call3][19] url:https://api-std.sunlogin.oray.com/buckets/qr, status code:200
+[13692]	2024-02-04 14:23:34.636	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443(223.144.131.233:443)
+[9968]	2024-02-04 14:23:34.667	- Info  -	[CSockConnector] attempt to connect server auth-sl.oray.com:443(120.26.170.25:443)
+[9968]	2024-02-04 14:23:34.668	- Info  -	[scan_login_websocket_client::connect_websocket] [ScanLogin] connecting TCP server auth-sl.oray.com:443 success.
+[9968]	2024-02-04 14:23:34.714	- Info  -	[http::call3][20] url:https://api-std.sunlogin.oray.com/channels, status code:200
+[9968]	2024-02-04 14:23:34.728	- Info  -	[http::call3][15] url:https://user-api-v2.oray.com/users/78439133, status code:200
+[9968]	2024-02-04 14:23:34.738	- Info  -	[http::call3][15] https://user-api-v2.oray.com/users/78439133 be canceled
+[9968]	2024-02-04 14:23:34.772	- Info  -	[http::call3][16] url:https://user-api-v2.oray.com/users/externals/wechat, status code:200
+[13692]	2024-02-04 14:23:34.778	+Warning+	[http download] ON CONNECTED
+[10788]	2024-02-04 14:23:34.795	- Info  -	[displayclt] CDisplayClient::CDisplayClient(all)
+[10788]	2024-02-04 14:23:34.795	- Info  -	[desktop] CRemoteDesktopPlugin::CRemoteDesktopPlugin(all)
+[13692]	2024-02-04 14:23:34.800	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443(223.144.131.233:443)
+[13692]	2024-02-04 14:23:34.827	+Warning+	[http download] ON CONNECTED
+[13692]	2024-02-04 14:23:34.844	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443(223.144.131.233:443)
+[5432]	2024-02-04 14:23:34.852	- Info  -	[http::call3][21] new call:https://sl-tk.oray.com/track
+[9968]	2024-02-04 14:23:34.852	- Info  -	[http::call3] id:21 use old connection : https://sl-tk.oray.com:443
+[9968]	2024-02-04 14:23:34.858	- Info  -	[http::call3][16] https://user-api-v2.oray.com/users/externals/wechat be canceled
+[9968]	2024-02-04 14:23:34.882	- Info  -	[http::call3][21] url:https://sl-tk.oray.com/track, status code:200
+[13692]	2024-02-04 14:23:34.902	+Warning+	[http download] ON CONNECTED
+[9968]	2024-02-04 14:23:38.485	+Warning+	[passive:keepalive:] 116.62.198.226:443 disconnect by keepalive timeout(13596203>=13592609+3000)
+[9968]	2024-02-04 14:23:38.485	+Warning+	[oray][erroCode] errorcode=ORAY_ERROR_PHSTREAM_KEEPALIVE_TIMEOUT(57351), product=0, type=3, inner code=7 [CPassiveKeepAliveHandler::Done:178]
+[11084]	2024-02-04 14:23:40.223	- Info  -	[ChannelManager::OnReceived] channel/ChannelChange change_type:cc_close; clientid:56fa9de7-b93b-43fc-b93a-ba37cce8f2e3 channel_count:1 channel_using:0
+[11084]	2024-02-04 14:23:42.718	- Info  -	[ChannelManager::OnReceived] channel/ChannelChange change_type:cc_open; clientid:56fa9de7-b93b-43fc-b93a-ba37cce8f2e3 channel_count:1 channel_using:1
+[5432]	2024-02-04 14:23:45.020	- Info  -	[http::call3][22] new call:https://sl-tk.oray.com/track
+[9968]	2024-02-04 14:23:45.021	- Info  -	[http::call3][22] create new connection : https://sl-tk.oray.com:443
+[9968]	2024-02-04 14:23:45.024	- Info  -	[CSockConnector] attempt to connect server sl-tk.oray.com:443(116.62.198.226:443)
+[9968]	2024-02-04 14:23:45.148	- Info  -	[http::call3][22] url:https://sl-tk.oray.com/track, status code:200
+[13692]	2024-02-04 14:23:46.041	- Info  -	[http::call3][23] new call:https://client-api.oray.com/softwares/SUNLOGIN_X_WINDOWS/publish
+[9968]	2024-02-04 14:23:46.041	- Info  -	[http::call3][23] create new connection : https://client-api.oray.com:443
+[9968]	2024-02-04 14:23:46.044	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.228.104:443)
+[9968]	2024-02-04 14:23:46.175	- Info  -	[http::call3][23] url:https://client-api.oray.com/softwares/SUNLOGIN_X_WINDOWS/publish, status code:204
+[5432]	2024-02-04 14:23:47.367	- Info  -	[http::call3][24] new call:https://sl-tk.oray.com/track
+[9968]	2024-02-04 14:23:47.367	- Info  -	[http::call3] id:24 use old connection : https://sl-tk.oray.com:443
+[9968]	2024-02-04 14:23:47.397	- Info  -	[http::call3][24] url:https://sl-tk.oray.com/track, status code:200
+[9968]	2024-02-04 14:23:49.604	* Error *	[CSSLStream::IsWantReadWrite] peer(47.111.169.221:443), SSL_read failed( 6 ), error:00000000:lib(0):func(0):reason(0), file( CSSLStream::CheckReceive:2081 )
+[9968]	2024-02-04 14:23:49.713	* Error *	[CSSLStream::IsWantReadWrite] peer(47.98.43.47:443), SSL_read failed( 6 ), error:00000000:lib(0):func(0):reason(0), file( CSSLStream::CheckReceive:2081 )
+[9968]	2024-02-04 14:23:49.771	* Error *	[CSSLStream::IsWantReadWrite] peer(47.99.65.231:443), SSL_read failed( 6 ), error:00000000:lib(0):func(0):reason(0), file( CSSLStream::CheckReceive:2081 )
+[9968]	2024-02-04 14:23:51.053	+Warning+	[passive:keepalive:] 116.62.198.226:443 disconnect by keepalive timeout(13608781>=13605125+3000)
+[9968]	2024-02-04 14:23:51.053	+Warning+	[oray][erroCode] errorcode=ORAY_ERROR_PHSTREAM_KEEPALIVE_TIMEOUT(57351), product=0, type=3, inner code=7 [CPassiveKeepAliveHandler::Done:178]
+[9968]	2024-02-04 14:23:58.580	+Warning+	[passive:keepalive:] 47.111.228.104:443 disconnect by keepalive timeout(13616312>=13603906+10000)
+[9968]	2024-02-04 14:23:58.580	+Warning+	[oray][erroCode] errorcode=ORAY_ERROR_PHSTREAM_KEEPALIVE_TIMEOUT(57351), product=0, type=3, inner code=7 [CPassiveKeepAliveHandler::Done:178]
+[10788]	2024-02-04 14:24:16.485	- Info  -	[main_dlg::HasControl] [CONTROL TYPES] control return is 0
+[11084]	2024-02-04 14:24:16.721	- Info  -	[ChannelManager::OnReceived] channel/ChannelChange change_type:cc_close; clientid:56fa9de7-b93b-43fc-b93a-ba37cce8f2e3 channel_count:1 channel_using:0
+[11084]	2024-02-04 14:24:16.933	- Info  -	[ChannelManager::OnReceived] channel/ChannelChange change_type:cc_close; clientid:56fa9de7-b93b-43fc-b93a-ba37cce8f2e3 channel_count:1 channel_using:0
+[11084]	2024-02-04 14:25:05.190	- Info  -	[ChannelManager::OnReceived] channel/ChannelChange change_type:cc_open; clientid:56fa9de7-b93b-43fc-b93a-ba37cce8f2e3 channel_count:1 channel_using:1
+[5432]	2024-02-04 14:25:07.023	- Info  -	[http::call3][25] new call:https://sl-tk.oray.com/track
+[9968]	2024-02-04 14:25:07.025	- Info  -	[http::call3][25] create new connection : https://sl-tk.oray.com:443
+[9968]	2024-02-04 14:25:07.031	- Info  -	[CSockConnector] attempt to connect server sl-tk.oray.com:443(47.99.81.181:443)
+[9968]	2024-02-04 14:25:07.151	- Info  -	[http::call3][25] url:https://sl-tk.oray.com/track, status code:200
+[13692]	2024-02-04 14:25:08.059	- Info  -	[http::call3][26] new call:https://client-api.oray.com/softwares/SUNLOGIN_X_WINDOWS/publish
+[9968]	2024-02-04 14:25:08.060	- Info  -	[http::call3][26] create new connection : https://client-api.oray.com:443
+[9968]	2024-02-04 14:25:08.095	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.228.106:443)
+[9968]	2024-02-04 14:25:08.228	- Info  -	[http::call3][26] url:https://client-api.oray.com/softwares/SUNLOGIN_X_WINDOWS/publish, status code:204
+[5432]	2024-02-04 14:25:09.820	- Info  -	[http::call3][27] new call:https://sl-tk.oray.com/track
+[9968]	2024-02-04 14:25:09.821	- Info  -	[http::call3] id:27 use old connection : https://sl-tk.oray.com:443
+[9968]	2024-02-04 14:25:09.848	- Info  -	[http::call3][27] url:https://sl-tk.oray.com/track, status code:200
+[9968]	2024-02-04 14:25:13.054	+Warning+	[passive:keepalive:] 47.99.81.181:443 disconnect by keepalive timeout(13690781>=13687578+3000)
+[9968]	2024-02-04 14:25:13.055	+Warning+	[oray][erroCode] errorcode=ORAY_ERROR_PHSTREAM_KEEPALIVE_TIMEOUT(57351), product=0, type=3, inner code=7 [CPassiveKeepAliveHandler::Done:178]
+[9968]	2024-02-04 14:25:20.632	+Warning+	[passive:keepalive:] 47.111.228.106:443 disconnect by keepalive timeout(13698359>=13685953+10000)
+[9968]	2024-02-04 14:25:20.632	+Warning+	[oray][erroCode] errorcode=ORAY_ERROR_PHSTREAM_KEEPALIVE_TIMEOUT(57351), product=0, type=3, inner code=7 [CPassiveKeepAliveHandler::Done:178]
+[5432]	2024-02-04 14:26:48.550	- Info  -	[http::call3][28] new call:https://sl-tk.oray.com/track
+[9968]	2024-02-04 14:26:48.550	- Info  -	[http::call3][28] create new connection : https://sl-tk.oray.com:443
+[9968]	2024-02-04 14:26:48.620	- Info  -	[CSockConnector] attempt to connect server sl-tk.oray.com:443(47.99.81.181:443)
+[9968]	2024-02-04 14:26:48.730	- Info  -	[http::call3][28] url:https://sl-tk.oray.com/track, status code:200
+[5432]	2024-02-04 14:26:49.321	- Info  -	[http::call3][29] new call:https://sl-tk.oray.com/track
+[9968]	2024-02-04 14:26:49.322	- Info  -	[http::call3] id:29 use old connection : https://sl-tk.oray.com:443
+[9968]	2024-02-04 14:26:49.349	- Info  -	[http::call3][29] url:https://sl-tk.oray.com/track, status code:200
+[10788]	2024-02-04 14:26:49.422	- Info  -	[clipboard] is stoped
+[10788]	2024-02-04 14:26:49.422	- Info  -	[desktop] CRemoteDesktopPlugin::~CRemoteDesktopPlugin(void)
+[10788]	2024-02-04 14:26:49.423	- Info  -	[clipboard] is stoped
+[13692]	2024-02-04 14:26:49.447	- Info  -	[CLocalNewShell::StopService] [STOP SERVICE] send before
+[13692]	2024-02-04 14:26:49.447	- Info  -	[CLocalNewShell::StopService] [STOP SERVICE] send after
+[13692]	2024-02-04 14:26:49.447	- Info  -	[SensorsDatas::close_sensors] [sensors] close
+[10788]	2024-02-04 14:26:49.545	* Error *	[main_dlg::set_tray_icon] [MainDialog] SetIcon lasterror:-2147467259,id:104,tray icon enable:1
+[10788]	2024-02-04 14:26:49.545	- Info  -	[main_dlg::HasControl] [CONTROL TYPES] control return is 0
+[10788]	2024-02-04 14:26:49.548	* Error *	[main_dlg::set_tray_icon] [MainDialog] SetIcon lasterror:-2147467259,id:104,tray icon enable:1
+[10788]	2024-02-04 14:26:49.548	- Info  -	[main_dlg::HasControl] [CONTROL TYPES] control return is 0
+[10788]	2024-02-04 14:26:49.550	* Error *	[main_dlg::set_tray_icon] [MainDialog] SetIcon lasterror:-2147467259,id:104,tray icon enable:1
+[10788]	2024-02-04 14:26:49.550	- Info  -	[main_dlg::HasControl] [CONTROL TYPES] control return is 0
+[10788]	2024-02-04 14:26:51.730	- Info  -	[CWebsocketClient::disconnect]
+[9968]	2024-02-04 14:26:51.730	- Info  -	[http::call3][9] https://api-std.sunlogin.oray.com/terminals/bind be canceled
+[10788]	2024-02-04 14:26:51.731	- Info  -	[CWebsocketClient::ondisconnect] is disconnected(49152)
+[10788]	2024-02-04 14:26:51.732	- Info  -	[CWebsocketClient::ondisconnect] is disconnected(-1)
+[10788]	2024-02-04 14:26:51.732	- Info  -	[CWebsocketClient::disconnect]
+[10788]	2024-02-04 14:26:51.732	- Info  -	[CWebsocketClient::ondisconnect] is disconnected(-1)
